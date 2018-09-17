@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//pageObjects/baidu_homepage.py=utf-8
+encoding//pageObjects/baidu_news_home.py=utf-8
+encoding//src/Basepage.py=utf-8
+encoding//test_common/basepage.py=utf-8
+encoding//test_common/browser_engine.py=utf-8
+encoding//test_suite/TestRunner.py=utf-8
+encoding//test_suite/test_baidu_search.py=utf-8

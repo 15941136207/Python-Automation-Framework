@@ -1,0 +1,7 @@
+测试集合包 需先去下载HTMLTestRunner
+
+HTMLTestRunner是Python标准库的unittest模块的扩展。它生成易于使用的HTML测试报告
+
+HTMLTestRunnerCN：美化版本。支持中文
+
+用于测试用例的存放和测试用例集合，示例：TestRunner.py

@@ -1,0 +1,74 @@
+1536714985372	geckodriver	INFO	geckodriver 0.21.0
+1536714985381	geckodriver	INFO	Listening on 127.0.0.1:55148
+1536714988870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qiuping.li\\AppData\\Local\\Temp\\rust_mozprofile.hXEdQV9LFVDj"
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 36436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 51648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 51648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 36436, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1536715012208	Marionette	INFO	Listening on port 55156
+1536715013222	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=&req=2&csor=1&cb=jQuery110201075202611849404_1536715035683&_=1536715035685, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=&req=2&csor=2&pwd=s&cb=jQuery110201075202611849404_1536715035683&_=1536715035686, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=&req=2&csor=3&pwd=se&cb=jQuery110201075202611849404_1536715035683&_=1536715035687, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=&req=2&csor=7&pwd=seleni&cb=jQuery110201075202611849404_1536715035683&_=1536715035691, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=&req=2&csor=5&pwd=sele&cb=jQuery110201075202611849404_1536715035683&_=1536715035689, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=&req=2&csor=4&pwd=sel&cb=jQuery110201075202611849404_1536715035683&_=1536715035688, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=&req=2&csor=6&pwd=selen&cb=jQuery110201075202611849404_1536715035683&_=1536715035690, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=&req=2&csor=8&pwd=seleniu&cb=jQuery110201075202611849404_1536715035683&_=1536715035692, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=2&pwd=p&cb=jQuery110201075202611849404_1536715035683&_=1536715035695, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=3&pwd=py&cb=jQuery110201075202611849404_1536715035683&_=1536715035696, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=4&pwd=pyt&cb=jQuery110201075202611849404_1536715035683&_=1536715035697, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=5&pwd=pyth&cb=jQuery110201075202611849404_1536715035683&_=1536715035698, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=6&pwd=pytho&cb=jQuery110201075202611849404_1536715035683&_=1536715035699, line 1: TypeError: jQuery110201075202611849404_1536715035683 is not a function
+[Child 9688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9688, Ch[Child 50116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536715073421	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 50116, Chrome_Chi[Parent 36436, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 36436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 41488, Chrome_ChildThread] WARNING: pipe error: 10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536715350928	geckodriver	INFO	geckodriver 0.21.0
+1536715350938	geckodriver	INFO	Listening on 127.0.0.1:55364
+1536715354042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qiuping.li\\AppData\\Local\\Temp\\rust_mozprofile.auvE3XhYhQUX"
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+1536715468644	geckodriver	INFO	geckodriver 0.21.0
+1536715468653	geckodriver	INFO	Listening on 127.0.0.1:55432
+1536715471680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qiuping.li\\AppData\\Local\\Temp\\rust_mozprofile.Sqs43wpnXsaV"
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+1536715478132	Marionette	INFO	Listening on port 55441
+1536715478864	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\qiuping.li\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=&req=2&csor=1&cb=jQuery110206406020951781897_1536715486532&_=1536715486534, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=&req=2&csor=2&pwd=s&cb=jQuery110206406020951781897_1536715486532&_=1536715486535, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=&req=2&csor=3&pwd=se&cb=jQuery110206406020951781897_1536715486532&_=1536715486536, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=&req=2&csor=4&pwd=sel&cb=jQuery110206406020951781897_1536715486532&_=1536715486537, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=&req=2&csor=5&pwd=sele&cb=jQuery110206406020951781897_1536715486532&_=1536715486538, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=&req=2&csor=6&pwd=selen&cb=jQuery110206406020951781897_1536715486532&_=1536715486539, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=&req=2&csor=7&pwd=seleni&cb=jQuery110206406020951781897_1536715486532&_=1536715486540, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=&req=2&csor=8&pwd=seleniu&cb=jQuery110206406020951781897_1536715486532&_=1536715486541, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=2&pwd=p&cb=jQuery110206406020951781897_1536715486532&_=1536715486543, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=3&pwd=py&cb=jQuery110206406020951781897_1536715486532&_=1536715486544, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=4&pwd=pyt&cb=jQuery110206406020951781897_1536715486532&_=1536715486545, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=5&pwd=pyth&cb=jQuery110206406020951781897_1536715486532&_=1536715486546, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=&req=2&bs=selenium&pbs=selenium&csor=6&pwd=pytho&cb=jQuery110206406020951781897_1536715486532&_=1536715486547, line 1: TypeError: jQuery110206406020951781897_1536715486532 is not a function
+[Parent 43360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 42492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 42492, Chrome[Parent 43360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 50476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 52252, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
